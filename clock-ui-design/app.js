@@ -12,4 +12,4 @@ setInterval(() => {
   h.style.transform = `rotateZ(${hh+(mm/12)}deg)`;
   m.style.transform = `rotateZ(${mm}deg)`;
   s.style.transform = `rotateZ(${ss}deg)`;
-});
+});.
